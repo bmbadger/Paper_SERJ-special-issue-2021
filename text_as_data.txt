@@ -1,0 +1,4 @@
+Text_as_data.txt
+
+We want to build ideas of backwards design for data science. I think the key example area will be text as data. In addition to Twitter (substantive areas in Journalismt/ Poli Sci)
+Perhaps I could thinkg of some of Dave Schneider's Text as data work in DOS. Or our connections in the digital humanities. 
